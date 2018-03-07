@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-<h1> Hello World! </h1>
+<h2> Hello World! </h2>
 
 <p> My name is <GITHUB-USERNAME> </p>
 
